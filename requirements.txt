@@ -1,0 +1,5 @@
+git+https://github.com/gaf3/python-relations.git@0.2.0#egg=relations
+redis==3.5.2
+ptvsd==4.3.2
+coverage==5.2.1
+pylint==2.5.3
